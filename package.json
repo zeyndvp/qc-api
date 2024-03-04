@@ -8,6 +8,9 @@
     "lint": "node_modules/.bin/eslint --ext js .",
     "lint:fix": "node_modules/.bin/eslint --fix --ext js ."
   },
+  "engines": {
+  "node": "20.x"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rizzlogy/qc-api"
